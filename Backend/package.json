@@ -4,13 +4,14 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev" : "nodemon index.js"
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "Vaibhav Tiwari",
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2"
   }
 }
